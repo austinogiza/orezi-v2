@@ -4,8 +4,7 @@ import {Wrapper} from 'container/Container'
 import ImageWrapper from "components/ImageWrapper"
 import {bodyText, bodyTitle} from 'styles/TextStyles'
 import {bodyButton} from 'styles/Buttons'
-// import resume from '@/assets/Orezi_Mena.pdf'
-import resume from 'assets/logo.svg'
+import resume from 'assets/Orezi_Mena.pdf'
 import { FunctionComponent } from "react"
 
 

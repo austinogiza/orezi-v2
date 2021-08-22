@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1abd3451.chunk.css",
+    "main.js": "/static/js/main.e06b1164.chunk.js",
+    "main.js.map": "/static/js/main.e06b1164.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7383ece9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7383ece9.js.map",
+    "static/js/2.110909fc.chunk.js": "/static/js/2.110909fc.chunk.js",
+    "static/js/2.110909fc.chunk.js.map": "/static/js/2.110909fc.chunk.js.map",
+    "static/js/3.68f52e35.chunk.js": "/static/js/3.68f52e35.chunk.js",
+    "static/js/3.68f52e35.chunk.js.map": "/static/js/3.68f52e35.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1abd3451.chunk.css.map": "/static/css/main.1abd3451.chunk.css.map",
+    "static/js/2.110909fc.chunk.js.LICENSE.txt": "/static/js/2.110909fc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/GGX88Lt-Regular.f45398e6.ttf",
+    "static/media/Orezi_Mena.1d9c2d9e.pdf": "/static/media/Orezi_Mena.1d9c2d9e.pdf",
+    "static/media/error.da27d61e.gif": "/static/media/error.da27d61e.gif",
+    "static/media/loader.0afda5ec.gif": "/static/media/loader.0afda5ec.gif",
+    "static/media/logo.40afd9bf.svg": "/static/media/logo.40afd9bf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7383ece9.js",
+    "static/js/2.110909fc.chunk.js",
+    "static/css/main.1abd3451.chunk.css",
+    "static/js/main.e06b1164.chunk.js"
+  ]
+}
